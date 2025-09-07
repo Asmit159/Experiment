@@ -1,10 +1,10 @@
-🚀 Experiment
+## 🚀 Experiment
 
 A collaborative Java playground where ideas come alive, code evolves through contributions, and AI (ChatGPT) plays the role of a virtual teammate.
 
 This repository is not just about building software—it’s about learning, experimenting, and co-creating with people and AI.
 
-✨ What’s Inside
+# ✨ What’s Inside
 
 🧪 Experiments in Java – small projects, prototypes, and algorithm explorations.
 
@@ -18,9 +18,9 @@ Explaining tricky concepts
 
 Writing docs & READMEs
 
-📖 Open & Shareable – licensed under AGPL-3.0 to ensure contributions remain free and open.
+## 📖 Open & Shareable – licensed under AGPL-3.0 to ensure contributions remain free and open.
 
-⚡ Getting Started
+## ⚡ Getting Started
 Prerequisites
 
 Java JDK 8+
@@ -38,7 +38,7 @@ cd Experiment
 
 Each folder contains a self-contained experiment. Navigate inside, build, and run.
 
-👨‍💻 Contributing
+## 👨‍💻 Contributing
 
 We love contributions! Here’s the workflow:
 
@@ -60,7 +60,7 @@ Open a Pull Request 🚀
 
 💡 Tip: Share both your code and how AI helped you—it makes the repo more insightful.
 
-🗂️ Experiments Overview
+## 🗂️ Experiments Overview
 Experiment	Description
 lms	Prototype of a Library Management System
 (add more)	More experiments will appear here as we grow
@@ -76,30 +76,30 @@ ChatGPT acts like a pair programmer in this project:
 
 💡 Inspires new experiments
 
-This makes the repo a blend of human creativity + AI acceleration.
+## This makes the repo a blend of human creativity + AI acceleration.
 
-🤝 Contributors
+## 🤝Top Contributors
 
 Asmit Mandal
  (Maintainer)
 
-Aditya Das
+Aditya Das(Contributor)
 
 And many more collaborators + ChatGPT 🚀
 
-📜 License
+## 📜 License
 
 This repository is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 See the LICENSE
  file for details.
 
-💬 Connect
+## 💬 Connect
 
 GitHub: Asmit159
 
 Ideas, feedback, or want to collaborate? → Open an issue or PR!
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 All contributors who shaped this project.
 
